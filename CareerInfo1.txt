@@ -1,0 +1,25 @@
+Part 1: Career Descriptions
+
+A game programmer is a software engineer, programmer, or computer 
+scientist who primarily develops codebases for videogames or related
+ software, such as game development tools. 
+
+A video game programmer is a software engineer who creates the 
+code that makes a video game run. Due to the complexity of today's 
+video games, most programmers specialize in one area of game 
+programming, such as audio or graphics. Typically, employers look for
+ candidates with a bachelor's degree in information systems or a 
+similar field. A strong background in math and science and an 
+understanding of gaming can help make a game programmer successful.
+
+Game developers, more specifically known as video game developers 
+or video game designers, are software developers and engineers who 
+create video games. Game developers may be involved in various 
+aspects of a game's creation from concept and story writing to the
+ coding and programming. Other potential areas of work for a game
+ developer include audio, design, production and visual arts.
+
+Part 2: Typical job titles
+-Game Developer
+-Game Programmer
+-Software Engineer
